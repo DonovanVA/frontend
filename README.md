@@ -1,5 +1,6 @@
 ## Welcome to travel advisory
 Travel advisory is a tool using nlp to extract locations from texts and display it (its use case is from comments in social media.)
+![Screenshot 2024-08-22 231613](https://github.com/user-attachments/assets/569b27d2-b3ee-4689-ae35-bdb0f1d186e9)
 
 ## Getting started with the travel advisory:
 
